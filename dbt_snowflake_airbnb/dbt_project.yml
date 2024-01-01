@@ -34,6 +34,6 @@ models:
   dbt_snowflake_airbnb:
     +materialized: view
     src:
-      +materialized: view
+      +materialized: ephemeral
     dim:
       +materialized: table

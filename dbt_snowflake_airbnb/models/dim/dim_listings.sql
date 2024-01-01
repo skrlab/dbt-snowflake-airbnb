@@ -1,6 +1,12 @@
 WITH dim_listings AS (
     SELECT * FROM {{ ref("src_listings") }}
 )
+{{
+    config(
+        materialized = 'view'
+    )
+}}
+
 SELECT
     listing_id,
     listing_name,
