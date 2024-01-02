@@ -1,4 +1,4 @@
-**dbt Project: dbt_snowflake_airbnb**
+**Project: dbt_snowflake_airbnb**
 
 **Overview**
 
