@@ -1,12 +1,10 @@
- **Here's a comprehensive README.md file for a dbt project on GitHub:**
+**dbt Project: [Project Name]**
 
-**# dbt Project: [Project Name]**
-
-**## Overview**
+**Overview**
 
 This repository contains the dbt project for [insert project description]. It aims to [insert project goals].
 
-**## Key Features**
+**Key Features**
 
 - dbt Models
 - dbt Materializations
@@ -22,7 +20,7 @@ This repository contains the dbt project for [insert project description]. It ai
 - Working with Great Expectations (dbt-expectations)
 - Debugging tests in dbt
 
-**## Getting Started**
+**Getting Started**
 
 1. **Prerequisites:**
    - Install dbt: [https://docs.getdbt.com/docs/installation](https://docs.getdbt.com/docs/installation)
@@ -51,7 +49,7 @@ This repository contains the dbt project for [insert project description]. It ai
    - Run documentation generation: `dbt docs generate`
    - Deploy models to database: `dbt run`
 
-**## Project Structure**
+**Project Structure**
 
 - **models/**: Contains model files defining data transformations.
 - **data/**: Holds source data files (if applicable).
@@ -59,15 +57,15 @@ This repository contains the dbt project for [insert project description]. It ai
 - **tests/**: Contains test cases for model validation.
 - **target/**: Generated documentation and artifacts.
 
-**## Documentation**
+**Documentation**
 
 - **Generated documentation:** Accessible at `target/docs` after running `dbt docs generate`.
 - **Additional documentation:** Upcoming...
 
-**## Contributing**
+**Contributing**
 
 We welcome contributions! Please refer to the CONTRIBUTING.md: CONTRIBUTING.md file for guidelines.
 
-**## Contact**
+**Contact**
 
 For any queries, reach out to sumkumar.bes@gmail.com.
