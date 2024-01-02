@@ -8,10 +8,11 @@
 
 **Overview**
 
-This repository contains the dbt project for airbnb dataset transformation. It aims to utilise ***snowflake*** for database, ***dbt*** for transformations and ***preset*** for visualization.
+This repository contains the dbt project for airbnb dataset transformation. It aims to utilise ***snowflake*** for database, ***dbt*** for transformations and ***preset*** for orchestration.
 
 **Key Features in the project:**
 
+***dbt***:
 - dbt Models
 - dbt Materializations
 - dbt Tests
