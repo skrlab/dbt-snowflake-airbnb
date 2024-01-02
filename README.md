@@ -1,10 +1,10 @@
-**dbt Project: [Project Name]**
+**dbt Project: dbt_snowflake_airbnb**
 
 **Overview**
 
-This repository contains the dbt project for [insert project description]. It aims to [insert project goals].
+This repository contains the dbt project for airbnb dataset transformation. It aims to utilise ***snowflake*** for database, ***dbt*** for transformations and ***preset*** for visualization.
 
-**Key Features**
+**Key Features in the project:**
 
 - dbt Models
 - dbt Materializations
@@ -38,10 +38,8 @@ This repository contains the dbt project for [insert project description]. It ai
    ```
 
 3. **Install dependencies:**
-   ```bash
-   cd [repository-name]
-   pip install -r requirements.txt
-   ```
+   - Virtualenv setup for python
+   - 
 
 4. **Run dbt commands:**
    - Build models: `dbt build`
