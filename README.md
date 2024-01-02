@@ -1,3 +1,9 @@
+<p align="center">
+<a href="https://www.getdbt.com/" target="_blank"> <img src="https://www.getdbt.com/ui/img/social/facebook.png" alt="dbt" width="240" height="140"/> </a> 
+<a href="https://www.snowflake.com/en/" target="_blank"> <img src="https://download.logo.wine/logo/Snowflake_Inc./Snowflake_Inc.-Logo.wine.png" alt="snowflake" width="240" height="140"/> </a> 
+<a href="https://preset.io/" target="_blank"> <img src="https://mma.prnewswire.com/media/1596309/Preset_Logo.jpg?p=facebook" alt="preset" width="240" height="140"/> </a> 
+<p>
+
 **Project: dbt_snowflake_airbnb**
 
 **Overview**
@@ -24,13 +30,13 @@ This repository contains the dbt project for airbnb dataset transformation. It a
 
 1. **Prerequisites:**
    - Install dbt: [https://docs.getdbt.com/docs/installation](https://docs.getdbt.com/docs/installation)
+   - Visual Studio Code with extention **dbt power user**
    - Configure a profile for your target database: [https://docs.getdbt.com/docs/configure-your-profile](https://docs.getdbt.com/docs/configure-your-profile)
    - Snowflake user creation and dataset import
-     - 's3://dbtlearn/listings.csv'
-     - 's3://dbtlearn/reviews.csv'
-     - 's3://dbtlearn/hosts.csv'
+     - 'https://dbtlearn.s3.amazonaws.com/hosts.csv'
+     - 'https://dbtlearn.s3.amazonaws.com/reviews.csv'
+     - 'https://dbtlearn.s3.amazonaws.com/listings.csv'
    - Python and Virtualenv setup
-   - Visual Studio Code with extention **dbt power user**
 
 2. **Clone the repository:**
    ```bash
