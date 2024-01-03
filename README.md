@@ -66,7 +66,7 @@ This repository contains the dbt project for airbnb dataset transformation. It a
 - **Generated documentation:** Accessible at `target/docs` after running `dbt docs generate` followed by `dbt docs serve`.
 - **Additional documentation:**
   <p align="center">
-   <a> <img src="https://dbtlearn.s3.us-east-2.amazonaws.com/input_schema.png" alt="schema" width="400" height="480"/> </a> 
+   <a> <img src="https://dbtlearn.s3.us-east-2.amazonaws.com/input_schema.png" alt="schema" width="400" height="380"/> </a> 
   </p>
 
 **Contributing**
