@@ -64,7 +64,7 @@ This repository contains the dbt project for airbnb dataset transformation. It a
 
 **Documentation**
 
-- **Generated documentation:** Accessible at `target/docs` after running `dbt docs generate`.
+- **Generated documentation:** Accessible at `target/docs` after running `dbt docs generate` followed by `dbt docs serve`.
 - **Additional documentation:** Upcoming...
 
 **Contributing**
