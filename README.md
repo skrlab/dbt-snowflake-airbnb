@@ -71,7 +71,7 @@ This repository contains the dbt project for airbnb dataset transformation. It a
 
 **Final ***Preset*** Dashboard**
 <p align="center">
-   <a> <img src="https://github.com/skr-learn/eBooks/blob/80b80f7c2f5032884ff49901b0d81d1e2d411c48/executive-dashboard-sentiment-analysis-2024-01-04T06-18-58.053Z.jpg" alt="dashboard_preset" width="850" height="500"/> </a> 
+   <a> <img src="https://github.com/skrlab/dbt-snowflake-airbnb/blob/b5438a6ed27be928f21d7ddf96ee35c10c00e72c/executive-dashboard-sentiment-analysis-2024-01-04T06-18-58.053Z.jpg" alt="dashboard_preset" width="850" height="500"/> </a> 
   </p>
 
 **Contributing**
