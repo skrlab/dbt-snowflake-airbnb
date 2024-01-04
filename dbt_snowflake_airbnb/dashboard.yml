@@ -1,0 +1,15 @@
+version: 2
+
+exposures:
+  - name: Airbnb Executive Dashboard
+    type: dashboard
+    maturity: low
+    url: https://github.com/skrlab/dbt-snowflake-airbnb/assets/73553929/5642e8b1-e40d-4c87-affb-f6d3fb8d2a24
+    description: Executive dashboard about Airbnb listings and hosts
+
+    depends on: 
+      - ref('dim_listings_with_hosts')
+      - ref('full_moon_reviews')
+    
+    owner:
+      name: Sumit Kumar
