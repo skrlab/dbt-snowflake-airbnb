@@ -66,7 +66,12 @@ This repository contains the dbt project for airbnb dataset transformation. It a
 - **Generated documentation:** Accessible at `target/docs` after running `dbt docs generate` followed by `dbt docs serve`.
 - **Additional documentation:**
   <p align="center">
-   <a> <img src="https://dbtlearn.s3.us-east-2.amazonaws.com/input_schema.png" alt="schema" width="400" height="320"/> </a> 
+   <a> <img src="https://dbtlearn.s3.us-east-2.amazonaws.com/input_schema.png" alt="schema" width="360" height="320"/> </a> 
+  </p>
+
+**Final ***Preset*** Dashboard**
+<p align="center">
+   <a> <img src="https://github.com/skr-learn/eBooks/blob/80b80f7c2f5032884ff49901b0d81d1e2d411c48/executive-dashboard-sentiment-analysis-2024-01-04T06-18-58.053Z.jpg" alt="dashboard_preset" width="850" height="500"/> </a> 
   </p>
 
 **Contributing**
